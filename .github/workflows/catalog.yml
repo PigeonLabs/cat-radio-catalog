@@ -12,6 +12,7 @@ concurrency:
 
 jobs:
   publish:
+    if: github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
@@ -49,3 +50,16 @@ jobs:
           fi
           gh release create "$CATALOG_TAG" --draft --target "$GITHUB_SHA" --title "$CATALOG_TAG" --notes '검증된 국내·해외 방송국 카탈로그' dist/manifest.json dist/kr.json.gz dist/world.json.gz
           gh release edit "$CATALOG_TAG" --draft=false --latest
+      - name: Record the last successful upstream check
+        run: |
+          latest=$(gh release view --json tagName --jq .tagName)
+          jq -n --arg checked "$(date -u +%FT%TZ)" --arg tag "$latest" \
+            --arg run "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            '{checkedAt: $checked, catalog: $tag, run: $run}' > status.json
+          args=()
+          if git cat-file -e HEAD:status.json 2>/dev/null; then
+            args=(-f "sha=$(git rev-parse HEAD:status.json)")
+          fi
+          gh api --method PUT "repos/$GITHUB_REPOSITORY/contents/status.json" \
+            -f message='Record successful catalog verification' -f "branch=$GITHUB_REF_NAME" \
+            -f "content=$(base64 -w0 status.json)" "${args[@]}" --silent
