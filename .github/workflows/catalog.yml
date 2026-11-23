@@ -34,8 +34,8 @@ jobs:
         run: |
           tag="catalog-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           echo "CATALOG_TAG=$tag" >> "$GITHUB_ENV"
-          for host in de1.api.radio-browser.info nl1.api.radio-browser.info at1.api.radio-browser.info; do
-            if curl --fail --silent --show-error --location --compressed --max-time 160 --retry 1 -A 'CatRadioCatalog/1.0 (github.com/PigeonLabs/cat-radio-catalog)' "https://$host/json/stations" -o snapshot.json &&
+          for host in de1.api.radio-browser.info all.api.radio-browser.info; do
+            if curl --fail --silent --show-error --location --compressed --max-time 160 --retry 1 -A 'CatRadioCatalog/1.0 (github.com/PigeonLabs/cat-radio-catalog)' "https://$host/json/stations?limit=1000000&hidebroken=false" -o snapshot.json &&
               python3 build_catalog.py snapshot.json --previous previous/world.json.gz --tag "$tag"; then
               exit 0
             fi
