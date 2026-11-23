@@ -1,0 +1,213 @@
+국가코드,방송사_네트워크,방송명,스트림_URL,기존_통합목록_ID
+AT,ORF,FM4,https://orf-live.ors-shoutcast.at/fm4-q2a,6271
+AT,ORF,Hitradio Ö3,https://orf-live.ors-shoutcast.at/oe3-q2a,48511
+AT,ORF,Radio Burgenland,https://orf-live.ors-shoutcast.at/bgl-q1a,52017
+AT,ORF,Radio Kärnten,https://orf-live.ors-shoutcast.at/ktn-q2a,2789
+AT,ORF,Radio Niederösterreich,https://orf-live.ors-shoutcast.at/noe-q1a,45385
+AT,ORF,Radio Oberösterreich,https://orf-live.ors-shoutcast.at/ooe-q1a,6272
+AT,ORF,Radio Salzburg,https://orf-live.ors-shoutcast.at/sbg-q1a,16067
+AT,ORF,Radio Steiermark,https://orf-live.ors-shoutcast.at/stm-q2a,4333
+AT,ORF,Radio Tirol,https://orf-live.ors-shoutcast.at/tir-q2a,10179
+AT,ORF,Radio Vorarlberg,https://orf-live.ors-shoutcast.at/vbg-q1a,2948
+AT,ORF,Radio Wien,https://orf-live.ors-shoutcast.at/wie-q2a,80133
+AT,ORF,Ö1,https://orf-live.ors-shoutcast.at/oe1-q2a,53380
+BE,RTBF,Classic 21,https://radios.rtbf.be/classic21-128.mp3,27277
+BE,RTBF,Musiq3,https://radios.rtbf.be/musiq3-128.mp3,8548
+BE,VRT,Klara,https://icecast.vrtcdn.be/klara-high.mp3,182808
+BE,VRT,MNM,https://icecast.vrtcdn.be/mnm-high.mp3,114440
+BE,VRT,Studio Brussel,https://icecast.vrtcdn.be/stubru-high.mp3,171476
+BE,VRT,VRT Radio 1,https://icecast.vrtcdn.be/radio1-high.mp3,71873
+BG,Bulgarian National Radio,BNR Radio Blagoevgrad,http://stream.bnr.bg:8035/radio-blagoevgrad.aac,23344
+BG,Bulgarian National Radio,BNR Radio Burgas,http://stream.bnr.bg:8037/radio-burgas.aac,18451
+BG,Bulgarian National Radio,BNR Radio Kardzhali,http://stream.bnr.bg:8038/radio-kardzhali.aac,22615
+BG,Bulgarian National Radio,BNR Radio Vidin,http://stream.bnr.bg:8036/radio-vidin.aac,52786
+BR,Sistema Globo de Rádio,CBN Rio de Janeiro,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac,112023
+BR,Sistema Globo de Rádio,CBN São Paulo,https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac,16416
+CA,CBC/Radio-Canada,CBC Radio One Calgary,http://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8,1057627
+CA,CBC/Radio-Canada,CBC Radio One Toronto,http://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8,1057647
+CH,SRG SSR,RSI Rete Due,https://stream.srg-ssr.ch/m/retedue/mp3_128,87588
+CH,SRG SSR,RSI Rete Tre,https://stream.srg-ssr.ch/m/retetre/mp3_128,72834
+CH,SRG SSR,RSI Rete Uno,https://stream.srg-ssr.ch/m/reteuno/mp3_128,87587
+CH,SRG SSR,RTS Couleur 3,https://stream.srg-ssr.ch/m/couleur3/mp3_128,81834
+CH,SRG SSR,RTS Espace 2,https://stream.srg-ssr.ch/m/espace-2/mp3_128,82212
+CH,SRG SSR,RTS Première,https://stream.srg-ssr.ch/m/la-1ere/mp3_128,74014
+CH,SRG SSR,Radio RTR,https://stream.srg-ssr.ch/m/rr/mp3_128,87615
+CH,SRG SSR,Radio SRF 1,https://stream.srg-ssr.ch/m/drs1/mp3_128,297557
+CH,SRG SSR,Radio SRF 2 Kultur,https://stream.srg-ssr.ch/m/drs2/mp3_128,302344
+CH,SRG SSR,Radio SRF 3,https://stream.srg-ssr.ch/m/drs3/mp3_128,80492
+CH,SRG SSR,Radio SRF 4 News,https://stream.srg-ssr.ch/m/drs4news/mp3_128,297555
+CL,Bío Bío Comunicaciones,Radio Bío Bío Santiago,https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio,23478
+CN,China National Radio,中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8,56624
+CN,China National Radio,中国交通广播,https://ngcdn002.cnr.cn/live/gsgljtgb/index.m3u8,49993
+CN,China National Radio,经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8,21974
+CN,China National Radio,香港之声,http://ngcdn002.cnr.cn/live/xgzs/index.m3u8,43814
+CN,RTHK,RTHK Radio 1,http://stm1.rthk.hk/radio1,3179
+CN,RTHK,RTHK Radio 2,http://stm1.rthk.hk/radio2,114953
+CN,RTHK,RTHK Radio 3,http://stm1.rthk.hk/radio3,114969
+CN,RTHK,RTHK Radio 4,http://stm1.rthk.hk/radio4,98052
+CN,RTHK,RTHK Radio 5,https://stm1.rthk.hk/radio5,74532
+CO,RTVC,Radio Nacional de Colombia,https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8,26939
+DE,Bayerischer Rundfunk,BR-Klassik,https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high,8375
+DE,Bayerischer Rundfunk,BR24,https://dispatcher.rndfnk.com/br/br24/live/mp3/mid,23824
+DE,Bayerischer Rundfunk,Bayern 3,https://dispatcher.rndfnk.com/br/br3/live/mp3/mid,3101
+DE,Hessischer Rundfunk,YOU FM,https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high,7934
+DE,Hessischer Rundfunk,hr-iNFO,https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high,8362
+DE,Hessischer Rundfunk,hr1,https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high,49079
+DE,Hessischer Rundfunk,hr3,https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high,45676
+DE,Hessischer Rundfunk,hr4,https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high,8888
+DE,Norddeutscher Rundfunk,NDR 2,https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3,84466
+DE,Norddeutscher Rundfunk,"NDR 90,3",https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3,84467
+DE,Norddeutscher Rundfunk,NDR Info,https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3,4646
+DE,Norddeutscher Rundfunk,NDR Kultur,http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac,17695
+DK,DR,DR P1,http://live-icy.gss.dr.dk/A/A03H.mp3,29904
+DK,DR,DR P2,http://live-icy.gss.dr.dk/A/A04L.mp3,342834
+DK,DR,DR P3,https://live-icy.gss.dr.dk/A/A05L.mp3,646427
+DK,DR,DR P4 Bornholm,http://live-icy.gslb01.dr.dk/A/A06H.mp3,60578
+DK,DR,DR P4 Esbjerg,http://live-icy.gslb01.dr.dk/A/A15H.mp3,60579
+DK,DR,DR P4 København,http://live-icy.dr.dk/A/A08H.mp3,29899
+DK,DR,DR P4 Midt & Vest,http://live-icy.gss.dr.dk/A/A09L.mp3,353258
+DK,DR,DR P4 Sjælland,http://live-icy.gslb01.dr.dk/A/A11H.mp3,60585
+DK,DR,DR P4 Syd,http://live-icy.gss.dr.dk/A/A12L.mp3,504809
+DK,DR,DR P4 Trekanten,http://live-icy.gss.dr.dk/A/A13L.mp3,504810
+DK,DR,DR P4 Østjylland,http://live-icy.gss.dr.dk/A/A14L.mp3,343015
+DK,DR,DR P6 Beat,https://live-icy.dr.dk/A/A29H.mp3,21053
+EE,ERR,Klassikaraadio,http://icecast.err.ee/klassikaraadio.mp3,41697
+EE,ERR,Raadio 2,https://icecast.err.ee/raadio2.mp3,85033
+EE,ERR,Raadio 4,http://icecast.err.ee/raadio4.opus,44150
+EE,ERR,Vikerraadio,http://icecast.err.ee/vikerraadio.mp3,7936
+ES,RTVE,Radio 3,https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8,45751
+ES,RTVE,Radio 5 Madrid,https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8,692622
+ES,RTVE,Radio Clásica,https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8,21635
+ES,RTVE,Radio Nacional,https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8,14796
+ES,RTVE,Ràdio 4,https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8,60971
+FI,Yle,Yle Radio 1,https://icecast.live.yle.fi/radio/YleRadio1/icecast.audio,815558
+FI,Yle,Yle Radio Suomi,https://icecast.live.yle.fi/radio/YleRS/icecast.audio,815559
+FI,Yle,Yle Vega,https://icecast.live.yle.fi/radio/YleVega/icecast.audio,811171
+FR,Radio France,FIP,https://icecast.radiofrance.fr/fip-hifi.aac,35527
+FR,Radio France,France Culture,https://icecast.radiofrance.fr/franceculture-hifi.aac,50337
+FR,Radio France,France Inter,https://icecast.radiofrance.fr/franceinter-hifi.aac,51462
+FR,Radio France,France Musique,https://icecast.radiofrance.fr/francemusique-hifi.aac,61713
+FR,Radio France,franceinfo,https://icecast.radiofrance.fr/franceinfo-hifi.aac,61711
+GB,BBC,BBC Asian Network,https://as-hls-ww.live.cf.md.bbci.co.uk/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8,271997
+GB,BBC,BBC Radio 1,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8,187488
+GB,BBC,BBC Radio 1Xtra,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8,21174
+GB,BBC,BBC Radio 2,https://as-hls-ww.live.cf.md.bbci.co.uk/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8,270125
+GB,BBC,BBC Radio 3,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_three.m3u8,182789
+GB,BBC,BBC Radio 4,https://as-hls-ww.live.cf.md.bbci.co.uk/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8,278724
+GB,BBC,BBC Radio 5 Live,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_five_live.m3u8,210809
+GB,BBC,BBC Radio 6 Music,https://as-hls-ww.live.cf.md.bbci.co.uk/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8,270991
+GB,BBC,BBC Radio Cymru,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cymru.m3u8,342959
+GB,BBC,BBC Radio Scotland,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_scotland_fm.m3u8,344318
+GB,BBC,BBC Radio Ulster,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8,26735
+GB,BBC,BBC Radio Wales,https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_wales_fm.m3u8,347393
+GB,BBC,BBC World Service,https://stream.live.vc.bbcmedia.co.uk/bbc_world_service,17777
+GB,Global,Capital,https://media-ssl.musicradio.com/Capital,100951
+GB,Global,Classic FM,https://media-ssl.musicradio.com/ClassicFM,97785
+GB,Global,Heart,https://media-ssl.musicradio.com/HeartUK,18465
+GB,Global,LBC,https://media-sov.musicradio.com/LBCUK,1035081
+GB,Global,Radio X,https://media-sov.musicradio.com/RadioXUK,1025567
+GR,ERT,ERT 102 FM,https://radiostreaming.ert.gr/ert-102fm,4692
+GR,ERT,ERT 95.8 FM,https://radiostreaming.ert.gr/ert-958fm,13984
+GR,ERT,ERT Aigaiou,https://radiostreaming.ert.gr/ert-aigaiou,70122
+GR,ERT,ERT Chania,https://radiostreaming.ert.gr/ert-chania,70120
+GR,ERT,ERT Florina,https://radiostreaming.ert.gr/ert-florina,70119
+GR,ERT,ERT Heraklio,https://radiostreaming.ert.gr/ert-heraklio,70127
+GR,ERT,ERT Ioannina,https://radiostreaming.ert.gr/ert-ioannina,70061
+GR,ERT,ERT Kalamata,https://radiostreaming.ert.gr/ert-kalamata,70062
+GR,ERT,ERT Kavala,https://radiostreaming.ert.gr/ert-kavala,70188
+GR,ERT,ERT Kerkyra,https://radiostreaming.ert.gr/ert-kerkyra,70063
+GR,ERT,ERT Komotini,https://radiostreaming.ert.gr/ert-komotini,70187
+GR,ERT,ERT Kozani,https://radiostreaming.ert.gr/ert-kozani,70181
+GR,ERT,ERT Larisa,https://radiostreaming.ert.gr/ert-larisa,70143
+GR,ERT,ERT Orestiada,https://radiostreaming.ert.gr/ert-orestiada,70179
+GR,ERT,ERT Patra,https://radiostreaming.ert.gr/ert-patra,19326
+GR,ERT,ERT Pyrgos,https://radiostreaming.ert.gr/ert-pyrgos,70116
+GR,ERT,ERT Serres,https://radiostreaming.ert.gr/ert-serres,70117
+GR,ERT,ERT Tripoli,https://radiostreaming.ert.gr/ert-tripoli,13083
+GR,ERT,ERT Volos,https://radiostreaming.ert.gr/ert-volos,70175
+GR,ERT,ERT Zakynthos,https://radiostreaming.ert.gr/ert-zakynthos,70189
+GR,ERT,"ERTnews Radio 105,8",https://radiostreaming.ert.gr/ert-proto,37006
+GR,ERT,Kosmos,https://radiostreaming.ert.gr/ert-kosmos,4596
+GR,ERT,Δεύτερο Πρόγραμμα,https://radiostreaming.ert.gr/ert-deftero,15703
+GR,ERT,ΕΡΑ Σπορ,https://radiostreaming.ert.gr/ert-erasport,13621
+GR,ERT,Η Φωνή της Ελλάδας,https://radiostreaming.ert.gr/ert-voiceofgreece,12063
+GR,ERT,Τρίτο Πρόγραμμα,https://radiostreaming.ert.gr/ert-trito,23890
+IE,RTÉ,RTÉ 2FM,http://icecast1.rte.ie/2fm,621406
+IE,RTÉ,RTÉ Radio 1,http://icecast1.rte.ie/radio1,62908
+IE,RTÉ,RTÉ Raidió na Gaeltachta,https://icecast.rte.ie/rnag,72976
+IE,RTÉ,RTÉ lyric fm,http://icecast.rte.ie/lyric,42800
+IS,RÚV,Rás 1,http://netradio.ruv.is/ras1.aac,49066
+IS,RÚV,Rás 2,http://netradio.ruv.is/ras2.aac,3293
+IT,RAI,Rai Radio 1,https://icestreaming.rai.it/1.mp3,29386
+IT,RAI,Rai Radio 2,https://icestreaming.rai.it/2.mp3,5380
+IT,RAI,Rai Radio 3,https://icestreaming.rai.it/3.mp3,78515
+KE,Royal Media Services,Radio Citizen,https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen,173269
+KR,MBC 지역 네트워크,목포MBC 표준FM,https://vod.mpmbc.co.kr/live/encoder-am/playlist.m3u8,1068966
+KR,MBC 지역 네트워크,안동MBC 표준FM,https://live.andongmbc.co.kr/live/amlive/playlist.m3u8,965294
+KR,TBN 한국교통방송,TBN 강원교통방송,http://radio2.tbn.or.kr:1935/gangwon/myStream/playlist.m3u8,118005
+KR,TBN 한국교통방송,TBN 경남교통방송,http://radio2.tbn.or.kr:1935/gyeongnam/myStream/playlist.m3u8,118012
+KR,TBN 한국교통방송,TBN 경북교통방송,http://radio2.tbn.or.kr:1935/kyungbuk/myStream/playlist.m3u8,118010
+KR,TBN 한국교통방송,TBN 경인교통방송,http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8,51897
+KR,TBN 한국교통방송,TBN 광주교통방송,http://radio2.tbn.or.kr:1935/gwangju/myStream/playlist.m3u8,118011
+KR,TBN 한국교통방송,TBN 대구교통방송,http://radio2.tbn.or.kr:1935/daegu/myStream/playlist.m3u8,118006
+KR,TBN 한국교통방송,TBN 대전교통방송,http://radio2.tbn.or.kr:1935/daejeon/myStream/playlist.m3u8,596673
+KR,TBN 한국교통방송,TBN 부산교통방송,http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8,118004
+KR,TBN 한국교통방송,TBN 울산교통방송,http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8,19444
+KR,TBN 한국교통방송,TBN 전북교통방송,http://radio2.tbn.or.kr:1935/jeonbuk/myStream/playlist.m3u8,118009
+KR,TBN 한국교통방송,TBN 제주교통방송,http://radio2.tbn.or.kr:1935/jeju/myStream/playlist.m3u8,118008
+LT,LRT,LRT Klasika,https://lrt-cast.lrt.lt/lrt_klasika,306271
+LT,LRT,LRT Opus,https://lrt-cast.lrt.lt/lrt_opus,306559
+LT,LRT,LRT Radijas,https://lrt-cast.lrt.lt/lrt_radijas,80197
+LV,Latvijas Sabiedriskais medijs,Latvijas Radio 2,http://lr2mp1.latvijasradio.lv:8002/,6246
+LV,Latvijas Sabiedriskais medijs,Latvijas Radio 3,http://lr3mp0.latvijasradio.lv:8004/,260269
+MY,Radio Televisyen Malaysia,Ai FM,https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac,361488
+MY,Radio Televisyen Malaysia,Nasional FM,https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac,84442
+MY,Radio Televisyen Malaysia,Radio Klasik,https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC.aac,75453
+MY,Radio Televisyen Malaysia,TraXX FM,http://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FM.mp3,1065593
+NG,Nigeria Info,Nigeria Info Lagos,https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993,11060
+NL,NPO,NPO 3FM,https://icecast.omroep.nl/3fm-bb-mp3,2776
+NL,NPO,NPO FunX,https://icecast.omroep.nl/funx-sb-aac,3835
+NL,NPO,NPO Klassiek,https://icecast.omroep.nl/radio4-bb-mp3,11333
+NL,NPO,NPO Radio 1,https://icecast.omroep.nl/radio1-bb-mp3,9502
+NL,NPO,NPO Radio 2,https://icecast.omroep.nl/radio2-bb-mp3,74491
+NL,NPO,NPO Radio 5,https://icecast.omroep.nl/radio5-sb-mp3,6215
+NO,NRK,NRK P1+,https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l,302538
+NO,NRK,NRK P2,https://lyd.nrk.no/nrk_radio_p2_mp3_h,416288
+NO,NRK,NRK P3,https://lyd.nrk.no/nrk_radio_p3_mp3_m,84591
+NZ,RNZ,RNZ Concert,http://radionz-ice.streamguys.com/Concert_aac128,44206
+NZ,RNZ,RNZ National,http://radionz-ice.streamguys.com/National_aac128,9584
+NZ,RNZ,RNZ Pacific,http://radionz-ice.streamguys.com/international.mp3,38923
+PE,Grupo RPP,RPP Noticias,https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio,10161
+PK,Pakistan Broadcasting Corporation,FM 101 Lahore,https://whmsonic.radio.gov.pk:7000/101lahore,394175
+PK,Pakistan Broadcasting Corporation,Radio Pakistan Karachi,https://whmsonic.radio.gov.pk:7000/MW639khi,267168
+PL,Polskie Radio,Czwórka,https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8,503
+PL,Polskie Radio,Dwójka,https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8,48181
+PL,Polskie Radio,Jedynka,https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8,65273
+PL,Polskie Radio,Polskie Radio 24,https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8,17594
+PL,Polskie Radio,Trójka,https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8,47137
+PT,RTP,Antena 1,https://radioip.rtp.pt/liveradio/antena180a/playlist.m3u8,113192
+PT,RTP,Antena 1 Açores,https://radiocast.rtp.pt/antena1acores80a.mp3,692730
+PT,RTP,Antena 1 Madeira,https://radiocast.rtp.pt/antena1madeira80a.mp3,17795
+PT,RTP,Antena 2,https://radiocast.rtp.pt/antena280a.mp3,989
+PT,RTP,Antena 3,https://radiocast.rtp.pt/antena380a.mp3,51123
+PT,RTP,Antena 3 Madeira,https://radiocast.rtp.pt/antena3madeira80a.mp3,49144
+PT,RTP,RDP Internacional,https://radioip.rtp.pt/liveradio/rdpint80a/playlist.m3u8,692762
+PT,RTP,RDP África,https://radioip.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8,127095
+RU,VGTRK,Вести ФМ,http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps,38819
+RU,VGTRK,Радио Культура,http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps,235667
+RU,VGTRK,Радио Маяк,http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps,11320
+RU,VGTRK,Радио России,http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps,29480
+SE,Sveriges Radio,P2,http://live1.sr.se/p2-mp3-192,1115704
+SG,Mediacorp,CLASS 95,https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac,66140
+SG,Mediacorp,Warna 942,https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac,35850
+TN,Mosaïque FM,Mosaïque FM,https://radio.mosaiquefm.net/mosalive,37182
+US,Chicago Public Media,WBEZ,https://stream.wbez.org/wbez128.mp3,210856
+US,New York Public Radio,WNYC FM,https://fm939.wnyc.org/wnycfm-web,31393
+VN,Voice of Vietnam,VOV1,https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8,11784
+VN,Voice of Vietnam,VOV2,https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8,275265
+VN,Voice of Vietnam,VOV3,https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8,653289
+ZA,SABC,5FM,https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac,48867
+ZA,SABC,Good Hope FM,https://playerservices.streamtheworld.com/api/livestream-redirect/GOODHOPEFM.mp3,702091
+ZA,SABC,Metro FM,https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac,51723
+ZA,SABC,RSG,https://playerservices.streamtheworld.com/api/livestream-redirect/RSG.mp3,12805
+ZA,SABC,SAfm,https://playerservices.streamtheworld.com/api/livestream-redirect/SAFM.mp3,87642
